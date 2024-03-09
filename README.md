@@ -2,7 +2,7 @@
 This is my Preset PHP code which will help future Web-developers, It's a Login-Signup System for everyone to use
 It has my files for those struggling or learning PHP, MySQL, etc
 
-# Also make sure you use WAMP64 or XAMPP for the Database since you'll have a preset .SQL file if you want to use it
+# Also make sure you use WAMP64 or XAMPP for the Server (Locally hosted) and the Database (PhpMyAdmin)
 ### Here you can get XAMPP and WAMP
 https://www.apachefriends.org/download.html
 https://sourceforge.net/projects/wampserver/
