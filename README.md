@@ -1,6 +1,5 @@
 # PHP-Login-Signup-System-Preset
-This is my Preset PHP code which will help future Web-developers, It's a Login-Signup System for everyone to use
-It has my files for those struggling or learning PHP, MySQL, etc
+incase you're making a little school project and chatgpt is tweaking, here you go
 
 # Also make sure you use WAMP64 or XAMPP for the Server (Locally hosted) and the Database (PhpMyAdmin)
 ### Here you can get XAMPP and WAMP
